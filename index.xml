@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critiques de films</title>
+    <link>https://noeboa.github.io/krisantheme/</link>
+    <description>Recent content on Critiques de films</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Oct 2025 19:06:42 -0700</lastBuildDate>
+    <atom:link href="https://noeboa.github.io/krisantheme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma Premiere Critique</title>
+      <link>https://noeboa.github.io/krisantheme/posts/ma-premiere-critique/</link>
+      <pubDate>Wed, 15 Oct 2025 19:06:42 -0700</pubDate>
+      <guid>https://noeboa.github.io/krisantheme/posts/ma-premiere-critique/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est un test il n&amp;rsquo;y a pas de critique ici passez votre chemin&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
